@@ -13,3 +13,5 @@ Bibiliotheques : libsoundtouch
 
 
 Liens : https://github.com/CharlesBlonde/libsoundtouch
+
+***Explications détaillées et version anglaise à venir***
